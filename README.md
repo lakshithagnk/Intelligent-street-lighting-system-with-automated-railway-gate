@@ -9,7 +9,8 @@ The key benefits of the system include environmental sustainability, energy cons
 
 
 
-https://github.com/lakshithagnk/Intelligent-street-lighting-system-with-automated-railway-gate/blob/b339f7c1f22e6ba8f66ddbca6cafd9f47d290a11/media/gif.mp4
+![Project Demo](https://github.com/lakshithagnk/Intelligent-street-lighting-system-with-automated-railway-gate/blob/b339f7c1f22e6ba8f66ddbca6cafd9f47d290a11/media/gif.mp4)
+
 
 
 
