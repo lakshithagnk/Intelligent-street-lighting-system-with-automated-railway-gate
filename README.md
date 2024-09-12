@@ -9,14 +9,9 @@ The key benefits of the system include environmental sustainability, energy cons
 
 
 
+## Labview Programme
+
 ![Project Demo](media/gif.gif)
-
-
-
-
-## Labview Screenshots
-
-![Programme Screenshot](https://github.com/lakshithagnk/Intelligent-street-lighting-system-with-automated-railway-gate/blob/9b6adb8e3f8819cd6559b3688911d829fb94e5a9/media/img01.jpg)
 
 ![Programme Screenshot](https://github.com/lakshithagnk/Intelligent-street-lighting-system-with-automated-railway-gate/blob/9b6adb8e3f8819cd6559b3688911d829fb94e5a9/media/img02.jpg)
 ## Documentation
